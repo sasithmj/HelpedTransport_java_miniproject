@@ -1,0 +1,6 @@
+2,kavindu,99232434,773234345,2022-09-04,7.30,KK-1223,car,3,badulla,colombo,join
+3,madushan,23423423,723435454,2022-09-04,7.30,JQ-3399,van,2,badulla,colombo,join
+4,nimasha,52453244,756465453,2022-09-04,7.30,HS-0441,car,1,badulla,colombo,join
+5,anjalee,43234334,712323435,2022-09-04,7.30,HS-0441,car,3,badulla,colombo,join
+6,kasun,42345435,786576454,2022-09-04,7.30,HS-0441,car,2,badulla,colombo,join
+8,nimal,99878765v,786756456,2022-09-05,8.30,hj-9876,van,5,bandarawela,colombo,msg
